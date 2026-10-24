@@ -5,17 +5,15 @@ A passionate developer using Windows and GitHub Desktop to build cool projects. 
 ---
 
 ### 💻 Tech Stack & Tools
-
-<!-- Reliable Local Images -->
-<img src="./images/windows.png" width="110" alt="Windows" />
-<img src="./images/git.png" width="80" alt="Git" />
-<img src="./images/github-desktop.png" width="140" alt="GitHub Desktop" />
+- <img src="./images/windows.png" width="30" /> **Windows OS**
+- <img src="./images/git.png" width="25" /> **Git Version Control**
+- <img src="./images/github-desktop.png" width="25" /> **GitHub Desktop**
 
 #### 🛠️ Languages
-<img src="./images/python.png" width="90" alt="Python" />
-<img src="./images/javascript.png" width="110" alt="JavaScript" />
-<img src="./images/html5.png" width="95" alt="HTML5" />
-<img src="./images/sql.png" width="80" alt="SQL" />
+- <img src="./images/python.png" width="25" /> **Python**
+- <img src="./images/javascript.png" width="25" /> **JavaScript**
+- <img src="./images/html5.png" width="25" /> **HTML5**
+- <img src="./images/sql.png" width="25" /> **SQL**
 
 ---
 
