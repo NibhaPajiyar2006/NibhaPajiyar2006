@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nibha Pajiyar
 
-A passionate developer using Windows and GitHub Desktop to build cool projects. Welcome to my GitHub profile!
+A passionate **Data Science Student** leveraging Python, SQL, and predictive analytics to solve complex problems and uncover data-driven insights. Welcome to my GitHub workspace!
 
 ---
 
@@ -9,15 +9,16 @@ A passionate developer using Windows and GitHub Desktop to build cool projects. 
 - <img src="./images/git.png" width="25" /> **Git Version Control**
 - <img src="./images/github-desktop.png" width="25" /> **GitHub Desktop**
 
-#### 🛠️ Languages
-- <img src="./images/python.png" width="25" /> **Python**
-- <img src="./images/javascript.png" width="25" /> **JavaScript**
-- <img src="./images/html5.png" width="25" /> **HTML5**
-- <img src="./images/sql.png" width="25" /> **SQL**
+#### 🛠️ Core Stack & Languages
+- <img src="./images/python.png" width="25" /> **Python** (Data Analysis & ML)
+- <img src="./images/sql.png" width="25" /> **SQL** (Database Management & Querying)
+- <img src="./images/javascript.png" width="25" /> **JavaScript** (Web Integration)
+- <img src="./images/html5.png" width="25" /> **HTML5** (Structure & UI)
 
 ---
 
-### 🚀 What I'm Working On
-- 🔭 I’m currently building software applications on my Windows machine.
-- 🌱 I’m practicing clean version control workflows using GitHub Desktop.
-- 👯 I’m looking to collaborate on open-source starter projects.
+### 🚀 Data Science Journey & Focus
+- 🔭 **Current Focus:** Building exploratory data analysis (EDA) pipelines and predictive machine learning models.
+- 🌱 **Learning & Growth:** Deepening my knowledge in data warehousing, data engineering, and statistical modeling.
+- 📊 **What I Do:** Transforming raw structured and unstructured datasets into clean, actionable visual insights.
+- 👯 **Collaboration:** Looking to team up on open-source data analytics or machine learning research projects.
